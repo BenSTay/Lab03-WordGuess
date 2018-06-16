@@ -3,7 +3,7 @@
 **Version**: 1.0.0
 
 ## Overview
-A console application that 
+A console-based game where the user is tasked with guessing a random word selected from a text file one letter at a time. The text file containing the game's words can be viewed and modified from within the application by using the admin menu. 
 
 ## Getting Started
 1. Create a fork of this repository, and clone your fork to your device.  
